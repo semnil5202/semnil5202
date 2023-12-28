@@ -1,8 +1,7 @@
-### Hi there, I'm se-een. 👋
-- 🎯 I’m currently working on project [map-befine](https://github.com/woowacourse-teams/2023-map-befine)
-- 📖 I'm currently (re)studying `Typescript`, `React`, `Zustand`
+### 안녕하세요. 프론트엔드 개발자 이세민입니다. 👋
+- [Portfolio](https://portfolio-blush-alpha-90.vercel.app/)
 
-### Teck Stack ✨
+### 기술 스택 ✨
 <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=Typescript&logoColor=white"/> <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> <img src="https://img.shields.io/badge/styled components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/> <img src="https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=Storybook&logoColor=white"/> <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"> 
 
 <!--
