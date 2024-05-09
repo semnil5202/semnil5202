@@ -5,7 +5,7 @@
 <a href="https://se-een.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-2A392F?style=for-the-badge&logo=ReadTheDocs&logoColor=white"/></a>
 
 - 프로덕트 밸류를 높이기 위해 능동적으로 사고하고 행동합니다.
-- 새로운 시도와 리팩토링을 반복하여 사용자 경험을 높이는 것을 핵심 가치로 삼고 있습니다.
+- 새로운 시도와 리팩토링을 반복하여 UX를 높이는 것을 핵심 가치로 삼고 있습니다.
 
 ### Experience 🧑🏻‍💻
 
