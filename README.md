@@ -11,3 +11,6 @@
 
 - 디프만 Web 15기 (24.06 - 현재)
 - 우아한테크코스 FE 5기 (23.02 - 23.11)
+
+### Recent Post 📚
+<a href="https://velog-readme-stats.vercel.app/api/redirect?name=semnil5202"><img src="https://velog-readme-stats.vercel.app/api?name=semnil5202"></a>
