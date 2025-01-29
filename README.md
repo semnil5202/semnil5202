@@ -8,10 +8,11 @@
 - 소통의 비용을 최소화하는 방법에 대해서 관심이 많습니다.
 
 ### Experience 🧑🏻‍💻
-
-- 디프만 16기 Web (25.01 - 현재)
-- 디프만 15기 Web (24.06 - 24.09)
-- 우아한테크코스 5기 FE (23.02 - 23.11)
+| 기간 | 활동 |
+| ---- | ---- |
+| 25.01 - 현재 | [디프만](https://github.com/depromeet) 16기 Web |
+| 24.06 - 24.09 | [디프만](https://github.com/depromeet) 15기 Web |
+| 23.02 - 23.11 | [우아한테크코스](https://github.com/woowacourse) 5기 FE |
 
 ### Recent Post 📚
 <a href="https://velog-readme-stats.vercel.app/api/redirect?name=semnil5202"><img src="https://velog-readme-stats.vercel.app/api?name=semnil5202"></a>
