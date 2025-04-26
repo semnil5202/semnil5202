@@ -15,5 +15,5 @@
 | 23.02 - 23.11 | [우아한테크코스](https://github.com/woowacourse) 5기 FE |
 
 ### Recent Post 📚
-<a href="https://velog-readme-stats.vercel.app/api/redirect?name=semnil5202"><img src="https://velog-readme-stats.vercel.app/api?name=semnil5202"></a>
+<a href="https://velog.io/@semnil5202/posts"><img height="230px" src="https://velog-github-badge.vercel.app/badge/semnil5202?theme=white&posts=3"/></a>
 
