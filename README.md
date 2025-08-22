@@ -10,6 +10,7 @@
 ### Experience 🧑🏻‍💻
 | 기간 | 활동 |
 | ---- | ---- |
+| 25.08 - 현재 | [디프만](https://github.com/depromeet) Core |
 | 25.01 - 25.04 | [디프만](https://github.com/depromeet) 16기 Web |
 | 24.06 - 24.09 | [디프만](https://github.com/depromeet) 15기 Web |
 | 23.02 - 23.11 | [우아한테크코스](https://github.com/woowacourse) 5기 FE |
